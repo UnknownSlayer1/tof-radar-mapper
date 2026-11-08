@@ -1,0 +1,8 @@
+.pio/
+.pioenvs/
+.piolibdeps/
+.vscode/
+*.o
+*.elf
+*.bin
+tests/test_main
